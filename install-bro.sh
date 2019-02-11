@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #depending on your OS libssl-dev dependences can change
-libssl_alternative=libssl1.0-dev
+libssl_alternative='libssl1.0-dev'
 
 bro_depens="git cmake make gcc g++ flex bison libpcap-dev libssl-dev python-dev swig zlib1g-dev mailutils "
 
